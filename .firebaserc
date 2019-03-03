@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "livedemoapp"
+  },
+  "targets": {
+    "livedemoapp": {
+      "hosting": {
+        "livebellapp.firebaseapp.com": [
+          "livebellapp.firebaseapp.com"
+        ],
+        "livebellapp": [
+          "livebellapp"
+        ]
+      }
+    }
+  }
+}
